@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rcz_zwd_cjc">
+    <title>Here is my title</title>
+    <shortdesc>Fake short description.</shortdesc>
+    <conbody>
+        <p>Not a real paragraph.</p>
+    </conbody>
+</concept>
